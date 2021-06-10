@@ -1,3 +1,3 @@
 #!/usr/bin/env python3
 
-print("Docker is magic!-test1")
+print("Docker is magic!, Magic of integration ")
